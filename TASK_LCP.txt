@@ -1,0 +1,10 @@
+TASK LCP
+1. Aggiungere i parametri alla lambda-function jump
+2. Modificare funzione pattern
+3. trovare ampiezza minima (analticamente)
+4. test dataset ampiezza minima
+5. tempo di convergenza per varie ampiezze
+6. trovare il numero di parametri minimi in modo analitico
+7. numero di parametri necessari al variare di A
+8. impatto della regolarizzazione sulla CNN
+
